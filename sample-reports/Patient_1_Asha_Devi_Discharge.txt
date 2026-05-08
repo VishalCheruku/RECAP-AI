@@ -1,0 +1,103 @@
+================================================================================
+                    HOSPITAL DISCHARGE SUMMARY
+================================================================================
+
+PATIENT INFORMATION:
+Name: Asha Devi
+Date of Birth: 15-Jun-1952 (Age: 72 years)
+Patient ID: HD-2024-0847
+Gender: Female
+Contact: +91-98765-43210
+
+ADMISSION DATE: 02-May-2024
+DISCHARGE DATE: 07-May-2024
+Total Stay: 5 days
+
+================================================================================
+PRIMARY DIAGNOSIS:
+- Acute Coronary Syndrome with ST-elevation
+- Hypertension (Stage 2)
+- Type 2 Diabetes Mellitus (uncontrolled)
+
+SECONDARY DIAGNOSES:
+- Hyperlipidemia
+- Chronic kidney disease (Stage 3)
+- Atrial fibrillation (paroxysmal)
+
+PROCEDURES PERFORMED:
+- Percutaneous Coronary Intervention (PCI) with stent placement
+- Coronary angiography
+- Echocardiography
+
+================================================================================
+CLINICAL SUMMARY:
+
+72-year-old female admitted with complaints of chest pain, dyspnea, and 
+diaphoresis for 4 hours. On examination, vital signs showed BP 168/98 mmHg, 
+HR 102 bpm (irregular), respiratory rate 22/min. EKG showed ST elevation in 
+leads II, III, aVF suggesting STEMI.
+
+Troponin I levels on admission: 2.8 ng/mL (significantly elevated)
+
+Patient underwent emergency PCI with successful stent placement in right 
+coronary artery. Post-procedure TIMI III flow achieved. The patient responded 
+well to interventional cardiology.
+
+During hospital stay, patient developed acute kidney injury (AKIS Stage 1) 
+with creatinine rise from 1.4 to 1.8 mg/dL, managed conservatively with 
+adequate hydration.
+
+PRIOR HOSPITAL ADMISSIONS:
+- Admitted 18 months ago for Unstable Angina (managed medically)
+- Admitted 6 months ago for Hypertensive Emergency
+
+================================================================================
+MEDICATIONS AT DISCHARGE:
+
+1. Aspirin 100mg daily (long-term)
+2. Clopidogrel 75mg daily for 12 months
+3. Metoprolol 50mg twice daily
+4. Lisinopril 10mg daily
+5. Atorvastatin 80mg daily
+6. Amlodipine 5mg daily
+7. Metformin 500mg twice daily
+8. Insulin glargine 20 units at bedtime
+
+ALLERGY INFORMATION: Penicillin (rash), NSAIDs (GI upset)
+
+================================================================================
+FOLLOW-UP INSTRUCTIONS:
+
+1. Cardiology follow-up in 2 weeks
+2. Blood pressure monitoring twice daily
+3. Blood glucose monitoring before meals and at bedtime
+4. Strict adherence to medications - DO NOT SKIP DOSES
+5. Dietary modification: Low sodium, low fat diet
+6. Cardiac rehabilitation program enrollment
+7. Activity: Gradual increase in physical activity as tolerated
+8. Return immediately if: chest pain, dyspnea, dizziness, or palpitations
+
+LIFESTYLE COUNSELING:
+- Complete smoking cessation
+- Stress management and relaxation techniques
+- Regular monitoring of vital signs
+- Avoid strenuous physical activity for 6 weeks
+
+================================================================================
+DISCHARGE SUMMARY:
+
+Patient is being discharged on dual antiplatelet therapy following successful 
+PCI. Risk of readmission is significant given age, multiple comorbidities, and 
+recent acute cardiac event. Patient requires close monitoring and strict 
+medication adherence to prevent complications including recurrent MI or 
+arrhythmia-related complications.
+
+RISK STRATIFICATION: HIGH RISK
+Reason: Age >70, recent STEMI, multiple comorbidities (diabetes, hypertension, 
+        CKD), prior admission history
+
+================================================================================
+Physician Signature: Dr. Rajesh Kumar, MBBS, MD (Cardiology)
+Date: 07-May-2024
+Registration Number: MCI-2018-45678
+================================================================================

@@ -1,0 +1,43 @@
+DISCHARGE SUMMARY
+=================
+
+Patient Name: surya
+Age: 25 
+Gender: Male
+Date of Admission: 2026-04-28
+Date of Discharge: 2026-05-06
+Hospital: RECAP Medical Center
+
+DIAGNOSIS:
+- Acute Coronary Syndrome
+- Hypertension
+- Coronary Artery Disease
+
+COMORBIDITIES:
+- Type 2 Diabetes
+- Hyperlipidemia
+- Prior MI (2 years ago)
+
+MEDICATIONS PRESCRIBED:
+1. Aspirin 75mg - Once daily
+2. Metoprolol 50mg - Twice daily
+3. Lisinopril 10mg - Once daily
+4. Atorvastatin 40mg - Once daily
+
+CLINICAL NOTES:
+Patient admitted with chest pain and elevated troponin levels. 
+Underwent cardiac catheterization. Multiple stents placed.
+Patient showed good response to treatment.
+
+FOLLOW-UP INSTRUCTIONS:
+- Cardiology follow-up in 2 weeks
+- Monitor blood pressure daily
+- Avoid strenuous activities for 4 weeks
+- Take all medications as prescribed
+
+RISK ASSESSMENT:
+Multiple risk factors present. Close monitoring required.
+HIGH RISK of readmission within 30 days.
+
+Contact: +917013864843
+Doctor: Dr. Rajesh Kumar

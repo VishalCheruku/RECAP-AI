@@ -1,0 +1,30 @@
+RECAP AI - Core Idea and Functionality
+
+RECAP AI is a discharge follow-up intelligence system for reducing avoidable hospital readmissions. It turns patient documents into a clear risk report, routes care reminders, and escalates patients who need follow-up support.
+
+Core workflow:
+1. The user uploads a discharge summary, prescription, PDF, image, TXT, or JSON file.
+2. OCR and document parsing extract the patient name, age, diagnosis, medical history, phone route, medicines, and discharge date.
+3. The local clinical AI risk engine reads the extracted text and predicts LOW, MEDIUM, or HIGH readmission risk using age, diagnoses, medicines, prior admissions, adherence concerns, and urgent warning signs.
+4. Demo patient policy supports the panel scenario:
+   - Asha Devi: HIGH risk
+   - Ravi Kumar: MEDIUM risk
+   - Meena Joseph: HIGH risk
+   - Vikram Singh: LOW risk
+   - Surya: HIGH risk
+   - Vikas: HIGH risk
+5. Every generated report sends an SMS reminder.
+6. Only HIGH and MEDIUM risk reports trigger a call workflow.
+7. Vikram is LOW risk, so he receives SMS monitoring but no call.
+8. Surya routes SMS and calls to +917013864843.
+9. Every other report routes SMS and calls to +91996667724.
+10. The frontend shows call progress while the call request is active, then confirms that the message was relayed through SMS and call.
+
+Data storage:
+RECAP AI saves demo patients, report records, SMS logs, call logs, family alerts, doctor alerts, and medication replies into MongoDB database recap_ai when MongoDB is running locally. This gives the panel team live records to inspect in MongoDB Compass.
+
+OCR and prescription support:
+The document extractor handles selectable PDFs, scanned PDFs, images, plain text, and JSON. For prescriptions, it looks for common formats such as Patient, Age, Dx, C/O, Rx, medicines, and advice sections, then infers disease and risk from both diagnosis words and medication clues.
+
+Clinical output:
+The report presents the patient summary, routed contact, AI risk score, risk factors, SMS/call action, and system activity timeline. It is generated only after the Analyze button is pressed.

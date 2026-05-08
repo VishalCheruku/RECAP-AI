@@ -1,0 +1,110 @@
+================================================================================
+                    HOSPITAL DISCHARGE SUMMARY
+================================================================================
+
+PATIENT INFORMATION:
+Name: Meena Joseph
+Date of Birth: 10-Mar-1990 (Age: 34 years)
+Patient ID: HD-2024-0856
+Gender: Female
+Contact: +91-98734-56789
+
+ADMISSION DATE: 05-May-2024
+DISCHARGE DATE: 06-May-2024
+Total Stay: 1 day
+
+================================================================================
+PRIMARY DIAGNOSIS:
+- Acute exacerbation of asthma (moderate severity)
+
+SECONDARY DIAGNOSES:
+- Allergic rhinitis
+- Seasonal allergies
+
+PROCEDURES PERFORMED:
+- Spirometry test
+- Chest X-ray
+
+================================================================================
+CLINICAL SUMMARY:
+
+34-year-old female admitted with acute onset dyspnea, cough, and wheezing for 
+6 hours. Patient reports recent upper respiratory tract infection (3 days prior).
+
+On examination:
+- Respiratory rate: 26/min
+- Oxygen saturation: 92% on room air (improved to 96% on 2L oxygen)
+- Bilateral expiratory wheezes
+- Peak flow: 65% of predicted
+
+Patient was treated with:
+- Nebulized salbutamol (6 doses in first 4 hours)
+- Systemic corticosteroids (Methylprednisolone 40mg IV)
+- Oxygen support
+
+Patient responded well to acute management with improvement in symptoms 
+within 2 hours. By next morning, symptoms completely resolved and oxygen 
+was discontinued.
+
+Spirometry on discharge showed FEV1: 82% of predicted (within acceptable range).
+
+PRIOR HOSPITAL ADMISSIONS:
+- None in past 5 years
+- Last emergency department visit: 18 months ago for similar asthma exacerbation
+
+PAST MEDICAL HISTORY:
+- Diagnosed with asthma at age 12
+- Well-controlled on maintenance therapy for past 3 years
+- No prior hospitalizations for asthma since 2019
+
+================================================================================
+MEDICATIONS AT DISCHARGE:
+
+1. Salbutamol inhaler (MDI) 2 puffs every 6 hours as needed
+2. Fluticasone + Salmeterol (Seretide) inhaler 2 puffs twice daily
+3. Montelukast 10mg once daily
+4. Cetirizine 10mg once daily as needed for allergies
+5. Oral corticosteroids: Prednisolone 20mg once daily for 5 days (tapering)
+
+ALLERGY INFORMATION: NKDA (No Known Drug Allergies)
+
+================================================================================
+FOLLOW-UP INSTRUCTIONS:
+
+1. Pulmonology follow-up in 2-3 weeks
+2. Repeat spirometry in 4 weeks
+3. Continue maintenance inhalers as prescribed
+4. Trigger identification and avoidance (dust, pollen, allergens)
+5. Influenza and pneumococcal vaccination check
+6. Return if: severe dyspnea, inadequate response to bronchodilators, fever
+
+LIFESTYLE COUNSELING:
+- Keep rescue inhaler with patient at all times
+- Use peak flow meter daily to monitor asthma control
+- Maintain good indoor air quality
+- Avoid environmental triggers
+- Sleep with head elevated
+- Regular exercise as tolerated
+
+ALLERGY TESTING:
+Recommended skin prick testing for environmental allergens to identify triggers.
+
+================================================================================
+DISCHARGE SUMMARY:
+
+Young patient with acute asthma exacerbation triggered by recent respiratory 
+infection. Patient responded well to standard acute therapy. History of 
+well-controlled asthma suggests good prognosis.
+
+RISK STRATIFICATION: LOW RISK
+Reason: Young age (34 years), single acute episode (well-controlled baseline), 
+        no chronic comorbidities, responsive to treatment
+
+Readmission risk is low with appropriate preventive measures and medication 
+adherence.
+
+================================================================================
+Physician Signature: Dr. Anita Malhotra, MBBS, MD (Pulmonology)
+Date: 06-May-2024
+Registration Number: MCI-2018-56789
+================================================================================

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pytesseract
+pillow
+PyMuPDF
+requests
+twilio
+python-dotenv
+pymongo

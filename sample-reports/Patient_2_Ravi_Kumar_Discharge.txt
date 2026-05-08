@@ -1,0 +1,106 @@
+================================================================================
+                    HOSPITAL DISCHARGE SUMMARY
+================================================================================
+
+PATIENT INFORMATION:
+Name: Ravi Kumar
+Date of Birth: 22-Aug-1970 (Age: 54 years)
+Patient ID: HD-2024-0921
+Gender: Male
+Contact: +91-97845-67234
+
+ADMISSION DATE: 04-May-2024
+DISCHARGE DATE: 06-May-2024
+Total Stay: 2 days
+
+================================================================================
+PRIMARY DIAGNOSIS:
+- Type 2 Diabetes Mellitus with hyperglycemic crisis (HbA1c 9.8%)
+- Diabetic Ketoacidosis (mild)
+- Hypertension
+
+SECONDARY DIAGNOSES:
+- Obesity (BMI 31.2)
+- Fatty liver disease (NAFLD)
+- Metabolic syndrome
+- Mild anemia (Hb: 11.2 g/dL)
+
+PROCEDURES PERFORMED:
+- None (medical management)
+
+================================================================================
+CLINICAL SUMMARY:
+
+54-year-old male admitted with complaints of persistent polyuria, polydipsia, 
+fatigue, and abdominal discomfort for 3 days. On examination, patient appeared 
+dehydrated with dry mucous membranes.
+
+Laboratory findings on admission:
+- Blood glucose: 387 mg/dL
+- pH: 7.28 (mild acidosis)
+- Bicarbonate: 18 mEq/L
+- Serum ketones: Present (mild)
+
+Patient was placed on IV fluids and insulin infusion with gradual correction 
+of hyperglycemia. By hospital day 2, glucose levels normalized to 185 mg/dL 
+and patient was transitioned to subcutaneous insulin therapy.
+
+PRIOR HOSPITAL ADMISSIONS:
+- Admitted 8 months ago for similar hyperglycemic episode
+- Admitted 3 years ago for pneumonia (treated successfully)
+
+RISK FACTORS:
+- Non-compliant with diabetes medication for past 2 months
+- Poor dietary control
+- Sedentary lifestyle
+
+================================================================================
+MEDICATIONS AT DISCHARGE:
+
+1. Metformin 1000mg twice daily
+2. Glipizide 10mg twice daily
+3. Insulin NPH 15 units at bedtime
+4. Lisinopril 10mg once daily
+5. Amlodipine 5mg once daily
+6. Atorvastatin 40mg once daily
+7. Aspirin 100mg once daily
+
+ALLERGY INFORMATION: None documented
+
+================================================================================
+FOLLOW-UP INSTRUCTIONS:
+
+1. Endocrinology follow-up in 1 week
+2. Blood glucose monitoring 4 times daily (fasting, before meals, bedtime)
+3. Weight monitoring weekly
+4. Dietary consultation with nutritionist (diabetic diet plan)
+5. HbA1c testing in 3 months
+6. Repeat lipid profile in 6 weeks
+7. Return if: blood glucose >300 mg/dL, nausea/vomiting, chest pain
+
+LIFESTYLE COUNSELING:
+- Strict diabetic diet (low glycemic index foods)
+- Regular physical activity: minimum 30 minutes, 5 days/week
+- Weight loss target: 5-10 kg over next 6 months
+- Medication adherence critical to prevent readmission
+- Regular blood pressure monitoring
+
+================================================================================
+DISCHARGE SUMMARY:
+
+Patient with poorly controlled Type 2 Diabetes presenting with acute 
+hyperglycemia and mild ketoacidosis. Patient has demonstrated poor adherence 
+to medications and requires close monitoring and dietary modifications.
+
+RISK STRATIFICATION: MEDIUM RISK
+Reason: Poor medication compliance history, recent hyperglycemic crisis, 
+        sedentary lifestyle, obesity, metabolic syndrome
+
+Readmission risk is moderate with emphasis needed on medication compliance 
+and lifestyle modifications.
+
+================================================================================
+Physician Signature: Dr. Priya Sharma, MBBS, MD (Internal Medicine)
+Date: 06-May-2024
+Registration Number: MCI-2017-34567
+================================================================================

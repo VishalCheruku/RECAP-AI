@@ -1,0 +1,52 @@
+# Environment variables
+backend/.env
+backend/.env.local
+.env
+.env.local
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/.Python
+backend/*.egg-info/
+backend/dist/
+backend/build/
+backend/.pytest_cache/
+backend/.coverage
+backend/.tox/
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/npm-debug.log
+frontend/yarn-error.log
+frontend/.cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ngrok and external tools
+ngrok-v3-stable-windows-amd64*/
+
+# OS
+*.tmp
+.AppleDouble
+.LSOverride
+*.sublime-workspace
+
+# Dependencies
+.venv/
+ENV/
+env/
