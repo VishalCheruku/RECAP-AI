@@ -8,6 +8,7 @@ import DoctorAlert from "./components/DoctorAlert";
 import HighRiskPopup from "./components/HighRiskPopup";
 import SystemStatus from "./components/SystemStatus";
 import { createTimestamp, ensureTimestamp } from "./utils/time";
+import { buildApiUrl } from "./utils/api";
 
 const DEFAULT_PATIENTS = [
   {
@@ -128,7 +129,7 @@ function App() {
         admission_date: new Date(Date.now() - 8 * 24 * 60 * 60 * 1000).toISOString().split("T")[0],
       };
 
-      const response = await fetch("/voice/call-patient", {
+      const response = await fetch(buildApiUrl("/voice/call-patient"), {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(callData),

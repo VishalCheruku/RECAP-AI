@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { buildApiUrl } from "../utils/api";
 
 function ManualEntry({ onSubmitSuccess }) {
   const [form, setForm] = useState({
@@ -20,7 +21,7 @@ function ManualEntry({ onSubmitSuccess }) {
     setError("");
 
     try {
-      const response = await fetch("/predict-risk", {
+      const response = await fetch(buildApiUrl("/predict-risk"), {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

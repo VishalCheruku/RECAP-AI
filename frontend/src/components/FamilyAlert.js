@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { buildApiUrl } from "../utils/api";
 import {
   createTimestamp,
   ensureTimestamp,
@@ -67,7 +68,7 @@ function FamilyAlert({ patientName = "Patient", riskLevel = "LOW" }) {
     setError("");
 
     try {
-      const response = await fetch("/send-family-alert", {
+      const response = await fetch(buildApiUrl("/send-family-alert"), {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

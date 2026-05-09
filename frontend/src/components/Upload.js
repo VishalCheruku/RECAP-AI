@@ -1,4 +1,5 @@
 import React, { useRef, useState } from "react";
+import { buildApiUrl } from "../utils/api";
 
 const ANALYSIS_STEPS = [
   "Reading document structure",
@@ -65,7 +66,7 @@ function Upload({ onUploadSuccess, onActionUpdate = () => {}, onDocumentSelected
     formData.append("file", selectedFile);
 
     try {
-      const response = await fetch("/upload-document", {
+      const response = await fetch(buildApiUrl("/upload-document"), {
         method: "POST",
         body: formData,
       });

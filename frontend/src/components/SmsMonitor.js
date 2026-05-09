@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { buildApiUrl } from "../utils/api";
 import {
   createTimestamp,
   ensureTimestamp,
@@ -98,7 +99,7 @@ function SmsMonitor({ patientName = "Patient", riskLevel = "LOW", automation = n
     setError("");
 
     try {
-      const response = await fetch("/send-sms-alert", {
+      const response = await fetch(buildApiUrl("/send-sms-alert"), {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
